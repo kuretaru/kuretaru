@@ -1,3 +1,5 @@
+Junior Python/C++ Developer. Background: School 21 (Ecole 42). Stack: Python (FastAPI, Pandas), C/C++, SQL.
+
 # Hello, Universe! 👋
 
 I'm known as @Klaterrr, Kuretaru, Shanaecl, Ivan, or Johan – pick your favorite! I'm an explorer of the digital realm, with a passion for pushing the boundaries of what's possible.

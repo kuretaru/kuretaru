@@ -1,6 +1,6 @@
 # Hi there, I'm Ivan 👋 | Machine Learning Engineer & C++ Developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuretaru&layout=compact&theme=vision-friendly-dark)](https://github.com/kuretaru)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuretaru&layout=compact)](https://github.com/kuretaru)
 
 **R&D Engineer specialized in Topological Data Analysis (TDA) and Large Language Models.**
 Focusing on building high-performance ML pipelines and bridging the gap between theoretical physics and AI interpretation.

@@ -1,33 +1,42 @@
-Junior Python/C++ Developer. Background: School 21 (Ecole 42). Stack: Python (FastAPI, Pandas), C/C++, SQL.
+# Hi there, I'm Ivan 👋 | Machine Learning Engineer & C++ Developer
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuretaru&layout=compact)](https://github.com/kuretaru)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kuretaru&layout=compact&theme=vision-friendly-dark)](https://github.com/kuretaru)
 
-# Hello, Universe! 👋
+**R&D Engineer specialized in Topological Data Analysis (TDA) and Large Language Models.**
+Focusing on building high-performance ML pipelines and bridging the gap between theoretical physics and AI interpretation.
 
-I'm known as @Klaterrr, Kuretaru, Shanaecl, Ivan, or Johan – pick your favorite! I'm an explorer of the digital realm, with a passion for pushing the boundaries of what's possible.
+### 🛠 Tech Stack
+- **Languages:** Python (Advanced), C/C++ (Low-level optimization), SQL.
+- **ML/AI:** PyTorch, TensorFlow, Pandas, NumPy, SciPy, Hugging Face Transformers.
+- **Infrastructure:** Docker, Linux/Bash, Git.
+- **Mathematical Background:** TDA, Spin Models, Statistics, Probability Theory.
 
-## Areas of Fascination and Focus 🧠
+---
 
-My primary interests lie in the profound depths of **Neural Networks**, particularly the fundamental questions that often get overlooked. I'm not just about building models; I'm about understanding the *why* behind the *how*. Lately, I've become particularly captivated by:
+### 🚀 Key Projects
 
-*   **The Elusive Nature of Qualia:** I'm deeply intrigued by the complex questions surrounding subjective experience and consciousness in artificial systems. It's not enough to make them *work*; I want to explore *what it feels like* (or if it even feels like anything!)
+#### 🧬 [LaborLens (IBM Granite)](https://github.com/kuretaru/granite-labor-lens)
+*Responsible AI solution for employment contract analysis.*
+- Utilized **IBM Granite** models to ensure compliance with international labor standards.
+- Designed a pipeline to assess financial resilience potential using NLP.
 
-## Collaboration Goals 🤝
+#### 🌀 [Topological Spin Phases Analysis](https://github.com/kuretaru/topo-ml-spin-phases)
+*Research on phase transitions using TDA & ML.*
+- Investigated critical phenomena in spin models.
+- Applied **Topological Data Analysis** to detect phase transitions unavailable to standard statistical methods.
 
-I'm actively seeking collaborations on projects that involve:
+#### ⚡ [High Precision Decimal Lib](https://github.com/kuretaru/High-Precision-Decimal-Lib-C)
+*Custom C library for high-precision arithmetic.*
+- Implemented from scratch in C for critical financial calculations.
+- Optimized for memory management and performance.
 
-*   **Text-to-Speech (TTS) Systems:** Pushing the limits of natural and expressive voice synthesis.
-*   **Natural Language Processing (NLP):** Delving into the nuances of language, aiming for true understanding, not just pattern matching.
-*   **Vision-and-Language Processing (VPT) Systems:** Bridging the gap between sight and language for more comprehensive AI interactions.
+---
 
-I'm keen to work with fellow researchers and developers who are not afraid to tackle challenging, thought-provoking problems. Let's not just make things *smarter*, let's make them *more meaningful*.
+### 🔭 Current Focus
+Exploring the **interpretability of Neural Networks** and the nature of **Qualia** in artificial systems.
+Searching for collaborations in **TTS/Audio Synthesis** and **Vision-Language Models**.
 
-## Let's Connect! ✉️
-
-I'm always open to discussions, new ideas, and exciting collaborations. Feel free to reach out:
-
-*   **Telegram:** [https://t.me/kuretaru](https://t.me/kuretaru)
-*   **VK:** [https://vk.com/kuretaru](https://vk.com/kuretaru)
-*   **HuggingFace:** [https://huggingface.co/Kuretaru](https://huggingface.co/Kuretaru)
-
-Let's embark on some mind-bending adventures together! 🚀
+### 📫 Connect with me
+- **Telegram:** [@kuretaru](https://t.me/kuretaru)
+- **Email:** wooboochan@gmail.com
+- **HuggingFace:** [Kuretaru](https://huggingface.co/Kuretaru)
